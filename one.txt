@@ -1,2 +1,7 @@
 one
+<<<<<<< HEAD
 1
+=======
+1
+changes made in the main branch which will not be shown until this branch is merged with the "dev" branch.
+>>>>>>> main
